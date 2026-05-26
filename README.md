@@ -115,3 +115,11 @@ These skills help you write, refactor, and fix code.
   ```
   npx skills@latest add mattpocock/skills/obsidian-vault
   ```
+
+## Code Walkthroughs (中文 / Chinese)
+
+- **summary-codebase-by-showboat** — Generate an end-to-end Chinese code walkthrough using [showboat](https://pypi.org/project/showboat/). Reads all source files, plans a linear execution-flow outline, and produces a verifiable `walkthrough.md` with live code snippets and Chinese commentary.
+
+  ```
+  npx skills@latest add wangdepin/skills/summary-codebase-by-showboat
+  ```
